@@ -216,7 +216,7 @@ ul.navig li:nth-of-type(3) {
 /*--Header-Part-Ends-Here --*/
 /*--banner-Part-starts-Here --*/
 .banner {
-  	background: url(../images/background.jpg) no-repeat;
+  	background: url(http://cdn.sliangpos.com/images/background.jpg) no-repeat;
   	background-size: 100% 100%;
   	-webkit-background-size: 100% 100%;
  	-moz-background-size: 100% 100%;
@@ -374,8 +374,6 @@ ul.navig li:nth-of-type(3) {
 }
 .callbacks_nav.next {
   left: auto;
-  background-position: right top;
-  right: 6%;
 }
 #slider3-pager a {
   display: inline-block;
@@ -4107,6 +4105,8 @@ ul.navig li a {
     margin-top: 4px;
 }
 .stop-btm input[type="text"]:nth-child(1),
+ .stop-btm input[type="text"]:nth-child(3) {
+ .stop-btm input[type="text"]:nth-child(3) {
  .stop-btm input[type="text"]:nth-child(3) {
   margin-right: 0;
 }
