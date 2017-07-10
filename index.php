@@ -54,43 +54,43 @@
 					<div id="portfoliolist">
 						<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-6.jpg" class="b-link-stripe b-animate-go   swipebox"  title="利益">
-							     <img src="images/port-6.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-6.jpg" class="b-link-stripe b-animate-go   swipebox"  title="利益">
+							     <img src="http://cdn.sliangpos.com/images/port-6.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			                </div>
 						</div>				
 						<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-2.jpg" class="b-link-stripe b-animate-go   swipebox"  title="推广">
-							     <img src="images/port-2.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-2.jpg" class="b-link-stripe b-animate-go   swipebox"  title="推广">
+							     <img src="http://cdn.sliangpos.com/images/port-2.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			               	</div>
 						</div>		
 						<div class="portfolio photo mix_all" data-cat="photo" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-3.jpg" class="b-link-stripe b-animate-go   swipebox"  title="协作">
-							     <img src="images/port-3.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-3.jpg" class="b-link-stripe b-animate-go   swipebox"  title="协作">
+							     <img src="http://cdn.sliangpos.com/images/port-3.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			                </div>
 						</div>				
 						<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-4.jpg" class="b-link-stripe b-animate-go   swipebox"  title="效率">
-							     <img src="images/port-4.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-4.jpg" class="b-link-stripe b-animate-go   swipebox"  title="效率">
+							     <img src="http://cdn.sliangpos.com/images/port-4.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			                </div>
 						</div>	
 						<div class="portfolio photo mix_all" data-cat="photo" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-5.jpg" class="b-link-stripe b-animate-go   swipebox"  title="贴心">
-							     <img src="images/port-5.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-5.jpg" class="b-link-stripe b-animate-go   swipebox"  title="贴心">
+							     <img src="http://cdn.sliangpos.com/images/port-5.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			                </div> 
 						</div>			
 						<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
 							<div class="portfolio-wrapper">		
-								<a href="images/p-1.jpg" class="b-link-stripe b-animate-go  swipebox"  title="创意">
-							     <img src="images/port-1.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
+								<a href="http://cdn.sliangpos.com/images/p-1.jpg" class="b-link-stripe b-animate-go  swipebox"  title="创意">
+							     <img src="http://cdn.sliangpos.com/images/port-1.jpg" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">查看</h2>
 							  	 </div></a>
 			                </div>
 			            </div>		
@@ -198,15 +198,15 @@
 	
 	
 	
-	<link rel="stylesheet" href="css/swipebox.css">
-	<script src="js/jquery.swipebox.min.js"></script> 
+	<link rel="stylesheet" href="http://cdn.sliangpos.com/css/swipebox.css">
+	<script src="http://cdn.sliangpos.com/js/jquery.swipebox.min.js"></script> 
 	    <script type="text/javascript">
 			jQuery(function($) {
 				$(".swipebox").swipebox();
 			});
 		</script>
 	<!-- Portfolio Ends Here -->
-	<script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+	<script type="text/javascript" src="http://cdn.sliangpos.com/js/jquery.mixitup.min.js"></script>
 <script type="text/javascript">
 $(function () {
 	
