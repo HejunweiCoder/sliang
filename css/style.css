@@ -23,6 +23,12 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+h1.logotext{
+    height:0;
+    width:0;
+    display:block;
+    overflow:hidden;
+}
 /*-- Header Part Starts Here --*/
 .navigation {
   width: 53%;
